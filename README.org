@@ -5,3 +5,9 @@
 #+BEGIN_SRC sh
   ./bin/main_demo_logging
 #+END_SRC
+
+* Misc
+
+[[https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/][Good logging practice in Python]]
+
+[[https://github.com/DrSkippy/Data-Science-45min-Intros/blob/master/python-logging-201/tutorial.ipynb][Data-Science-45min-Intros/python-logging-201]]
